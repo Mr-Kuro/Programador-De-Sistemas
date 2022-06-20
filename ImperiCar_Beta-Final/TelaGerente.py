@@ -61,3 +61,5 @@ class Tela1:
 
     #def ver_pecas(self):
         #tela = Tela14()
+
+# tela1 = Tela1(0)
